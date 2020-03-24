@@ -17,6 +17,7 @@ def beep(s):
 
 def mul_2nums(a, b):
     """ return the multiplication of a and b
+        for negative results => return 0
     Args:
         a - a number
         b - a number
