@@ -1,10 +1,11 @@
 __author__ = 'Guy'
 
+
 def main():
-    a=0
-    b=1
+    a = 0
+    b = 1
     while True:
-        if(a<10000):
+        if (a < 10000):
             print a
         else:
             break
@@ -14,4 +15,4 @@ def main():
 
 
 if __name__ == '__main__':
-        main()
+    main()
