@@ -1,0 +1,8 @@
+46 + 19 = 65
+15 * 3 = 45
+10/2 = 5
+Wrong function - can't divide by zero!
+40-2 = 38
+Wrong Math Function
+Wrong Math Function
+2-4 = -2
